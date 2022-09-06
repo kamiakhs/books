@@ -10,5 +10,5 @@ nav_external_links:
   - title: The Kite Runner
     url: /The-Kite-Runner.pdf
     parent: 9th
-    nav_order: 1
+    nav_order: 2
     hide_icon: true
