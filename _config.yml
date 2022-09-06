@@ -1,0 +1,8 @@
+remote_theme: just-the-docs/just-the-docs
+title: Books
+description: Educational purposes only
+nav_external_links:
+  - title: 9th
+    url: /9th
+    nav_order: 2
+    hide_icon: true
