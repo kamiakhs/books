@@ -12,3 +12,8 @@ nav_external_links:
     parent: 9th
     nav_order: 2
     hide_icon: true
+  - title: Educated
+    url: /Educated.pdf
+    parent: 10th
+    nav_order: 3
+    hide_icon: true
