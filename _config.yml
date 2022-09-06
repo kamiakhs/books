@@ -4,5 +4,11 @@ description: Educational purposes only
 nav_external_links:
   - title: 9th
     url: /9th
+    has_children: true
     nav_order: 2
+    hide_icon: true
+  - title: The Kite Runner
+    url: /The-Kite-Runner.pdf
+    parent: 9th
+    nav_order: 1
     hide_icon: true
