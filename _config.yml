@@ -2,18 +2,8 @@ remote_theme: just-the-docs/just-the-docs
 title: Books
 description: Educational purposes only
 nav_external_links:
-  - title: 9th
-    url: /9th
-    has_children: true
-    nav_order: 2
-    hide_icon: true
-  - title: The Kite Runner
-    url: /The-Kite-Runner.pdf
-    parent: 9th
-    nav_order: 3
-    hide_icon: true
   - title: Educated
     url: /Educated.pdf
     parent: 10th
-    nav_order: 5
+    nav_order: 2
     hide_icon: true
