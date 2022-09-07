@@ -6,7 +6,7 @@ has_toc: false
 ---
 
 # 9th
-## Library
+## Books
 - [Romeo and Juliet](/9th/Romeo-and-Juliet) - William Shakespeare. [Sparknotes](https://www.sparknotes.com/shakespeare/romeojuliet/)
 - [The Kite Runner](/9th/The-Kite-Runner) - Khaled Hosseini. [Sparknotes](https://www.sparknotes.com/lit/the-kite-runner/)
 
